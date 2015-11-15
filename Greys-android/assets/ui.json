@@ -1,0 +1,7 @@
+{
+com.badlogic.gdx.scenes.scene2d.ui.Image: {
+	logo: {drawable: title},
+	moon: {drawable:moon},
+	play: {drawable:play},
+	},
+}
