@@ -15,7 +15,7 @@ public class Animator {
 	private Player player;
 	
 	public Animator (Player player){
-		this.player = player;
+		
 		walkSheet = new Texture (Gdx.files.internal("walking.png"));
 		TextureRegion [][] tmp = TextureRegion.split(walkSheet, 32, 32);
 		walkFrames = new TextureRegion[10];

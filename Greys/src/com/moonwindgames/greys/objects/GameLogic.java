@@ -7,7 +7,7 @@ import com.moonwindgames.greys.levels.Level;
 
 public class GameLogic extends InputAdapter {
 	public GameLogic(){
-		init();
+		
 	}
 	private void init(){
 		Gdx.input.setInputProcessor(this);
