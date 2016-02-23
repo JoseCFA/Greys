@@ -9,6 +9,9 @@ import com.badlogic.gdx.graphics.g2d.BitmapFont;
 import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 
 public class BadEnd implements Screen{
+
+	//Hola
+
 	private SpriteBatch batch;
 	private BitmapFont font;
 	private OrthographicCamera camera;
